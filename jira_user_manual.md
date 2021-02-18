@@ -21,12 +21,12 @@
 
 <kbd>
     <img src = ./images/user_003.png width=500><br>
-    "오류 및 기술지원 화면"의 화면 구성{: .text-center}
+    <p align="center">"오류 및 기술지원 화면"의 화면 구성</p>
 </kbd>
 <p></p>
 <kbd>
     <img src = ./images/user_004.png width=500><br>
-    "프로젝트 기술 지원 및 자료 요청"의 화면 구성{: .text-center}
+    <p align="center">"프로젝트 기술 지원 및 자료 요청"의 화면 구성</p>
 </kbd>
 
 <kbd>
