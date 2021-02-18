@@ -8,7 +8,7 @@
 
 <kbd>
     <img src = ./images/user_001.png width=500>
-</kbd>
+</kbd><p><br></p>
 
 
 ### 1.2 관리화면을 통한 티켓 접수
