@@ -6,10 +6,10 @@
 > 요약, 설명필드에 문의 제목 및 내용을 상세히 기재하고, 필요 시 캡쳐파일등을 첨부파일로 첨부한다.<br>
   (좌측 화면에 보이는 "대신 이 요청을 제기합니다" 관리자가 포탈에 접속하는 경우만 보인다)
 <kbd>
-    <img src = ./images/user_001.png width=200>
+    <img src = ./images/user_001.png width=450>
 </kbd>
 <kbd>
-    <img src = ./images/user_001.png width=200>
+    <img src = ./images/user_001.png width=450>
 </kbd>
 
 ### 1.2 관리화면을 통한 티켓 접수
