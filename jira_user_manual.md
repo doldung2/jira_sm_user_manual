@@ -35,35 +35,42 @@
 
 ## 2. 티켓 처리
 
-### 2.1 추가정보
+### 2.1 내용
 <kbd>
     <img src = ./images/user_005.png width=500>
 </kbd>
-### 2.2 원격지원
+
+### 2.2 추가정보
 <kbd>
     <img src = ./images/user_006.png width=500>
 </kbd>
-### 2.3 현장지원
+
+### 2.3 원격지원
 <kbd>
     <img src = ./images/user_007.png width=500>
 </kbd>
-### 2.4 요건협의
+
+### 2.4 현장지원
 <kbd>
     <img src = ./images/user_008.png width=500>
 </kbd>
-### 2.5 개발
+
+### 2.5 요건협의
 <kbd>
     <img src = ./images/user_009.png width=500>
 </kbd>
-### 2.6 테스트
+
+### 2.6 개발
 <kbd>
     <img src = ./images/user_010.png width=500>
 </kbd>
-### 2.7 배포
+
+### 2.7 테스트
 <kbd>
     <img src = ./images/user_011.png width=500>
 </kbd>
-### 기타
+
+### 2.8 배포
 <kbd>
     <img src = ./images/user_012.png width=500>
 </kbd>
