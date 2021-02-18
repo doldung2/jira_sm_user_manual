@@ -9,7 +9,7 @@
     <img src = ./images/user_001.png width=450>
 </kbd>
 <kbd>
-    <img src = ./images/user_001.png width=450>
+    <img src = ./images/user_001_1.png width=450>
 </kbd>
 
 ### 1.2 관리화면을 통한 티켓 접수
