@@ -33,14 +33,37 @@
 </kbd>
 <!--<p align="center">"프로젝트 기술 지원 및 자료 요청"의 화면 구성</p>-->
 
+## 2. 티켓 처리
 
+### 2.1 추가정보
 <kbd>
     <img src = ./images/user_005.png width=500>
 </kbd>
-
+### 2.2 원격지원
 <kbd>
     <img src = ./images/user_006.png width=500>
 </kbd>
+### 2.3 현장지원
 <kbd>
     <img src = ./images/user_007.png width=500>
+</kbd>
+### 2.4 요건협의
+<kbd>
+    <img src = ./images/user_008.png width=500>
+</kbd>
+### 2.5 개발
+<kbd>
+    <img src = ./images/user_009.png width=500>
+</kbd>
+### 2.6 테스트
+<kbd>
+    <img src = ./images/user_010.png width=500>
+</kbd>
+### 2.7 배포
+<kbd>
+    <img src = ./images/user_011.png width=500>
+</kbd>
+### 기타
+<kbd>
+    <img src = ./images/user_012.png width=500>
 </kbd>
