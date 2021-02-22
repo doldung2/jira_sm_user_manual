@@ -132,3 +132,5 @@ Lowest|미사용 서비스의 오류, 보류된 요구 사항|랜처 환경의 �
 <kbd>
     <img src = ./images/user_012.png width=500>
 </kbd>
+
+## 3. 티켓 처리 가이드
