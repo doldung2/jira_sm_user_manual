@@ -143,7 +143,8 @@ Lowest|미사용 서비스의 오류, 보류된 요구 사항|랜처 환경의 �
 </kbd>
 
 #### 3.1.1 제안 및 검토지원 요청
-> <b>이슈만들기에서 요청 유형을 "프로젝트 기술 지원 및 자료요청"으로 선택하거나, 이슈유형을 "Accu Support Issue"으로 할 경우 해당 워크플로우로 티켓이 수행된다.</b><br><br>
+##### 이슈만들기에서 요청 유형을 "프로젝트 기술 지원 및 자료요청"으로 선택하거나, 이슈유형을 "Accu Support Issue"으로 할 경우 해당 워크플로우로 티켓이 수행된다.
+
 > 주로 내부 프로젝트를 지원하거나, Trial 사용 요청에 대한 티켓을 관리할 때 해당 워크플로우로 수행된다.<br>
 > 화면 및 필드 내용은 앞에서 소개한 <a href=https://github.com/doldung2/jira_sm_user_manual/blob/main/jira_user_manual.md#122-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%A7%80%EC%9B%90-%EB%B0%8F-%EC%9E%90%EB%A3%8C-%EC%9A%94%EC%B2%AD%EC%9D%98-%EA%B2%BD%EC%9A%B0>1.2.2 프로젝트 기술 지원 및 자료 요청의 경우</a>를 참고하시면 됩니다.
 <kbd>
