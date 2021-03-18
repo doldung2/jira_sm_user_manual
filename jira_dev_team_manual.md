@@ -5,7 +5,7 @@
 ### 1.1 이슈유형: Accu Common Issue
 
 <kbd>
-    <img src = ./images/dev_001.png width=800>
+    <img src = ./images/dev_001.png width=1024>
 </kbd><p><br></p>
 
 #### 1.1.1. 
