@@ -9,4 +9,43 @@
 </kbd><p><br></p>
 
 #### 1.1.1. 
-.
+
+<kbd>
+    <img src = ./images/dev_002.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_003.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_004.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_005.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_006.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_007.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_008.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_009.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_010.png width=1024>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/dev_011.png width=1024>
+</kbd><p><br></p>
