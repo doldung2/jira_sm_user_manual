@@ -33,6 +33,15 @@
     <img src = ./images/dev_005.png width=600>
 </kbd><p><br></p>
 
+#### 1.1.3. 개발 탭
+```
+개발 내용: 개발 내용에 대해서 간략히 기재 또는 mytask 상의 고유번호
+단위 테스트 체크리스트: 추후 상세화 예정
+개발 Comment: 테스트 시 유의 사항 및 영향도에 대해선 언급 필요.
+             테스트 환경 (Local에서 수행 or 테스트서버가 있는 경우 해당 서버 정보)
+
+<b>완료 이후 해당 티켓의 상태를 "개발" -> "테스트 요청" 으로 변경</b>
+```
 <kbd>
     <img src = ./images/dev_006.png width=600>
 </kbd><p><br></p>
@@ -45,10 +54,20 @@
     <img src = ./images/dev_008.png width=600>
 </kbd><p><br></p>
 
+#### 1.1.4. 테스트 탭
+```
+테스트 Comment
+```
 <kbd>
     <img src = ./images/dev_009.png width=600>
 </kbd><p><br></p>
 
+#### 1.1.45. 배포
+```
+배포담당자: 직접방문하는 경우에는 개발팀 방문자를 기입
+실제 배포일자: 사이트 적용일자 (반영 이후 변경하고, 여러차례 발생할 경우 최종일자로 update)
+배포 Comment: 배포간에 발생힌 특이 사항
+```
 <kbd>
     <img src = ./images/dev_010.png width=600>
 </kbd><p><br></p>
