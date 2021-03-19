@@ -75,3 +75,29 @@
 <kbd>
     <img src = ./images/dev_011.png width=600>
 </kbd><p><br></p>
+
+## 2. Notification 을 위한 메일 설정
+
+<kbd>
+    <img src = ./images/outlook_00.png width=600>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/outlook_02.png width=600>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/outlook_03.png width=600>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/outlook_04.png width=600>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/outlook_05.png width=600>
+</kbd><p><br></p>
+
+<kbd>
+    <img src = ./images/outlook_06.png width=600>
+</kbd><p><br></p>
