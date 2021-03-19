@@ -113,7 +113,7 @@ Step 7. 이후 outlook 실행
     <img src = ./images/outlook_03.png width=600>
 </kbd><p><br></p>
 
-최종 설정 완료되면 아래와 같이 Outlook 좌측에 아래와 같이 개인 계장과 시스템 계정이 모두 보이면 설정 완료.
+최종 설정 완료되면 아래와 같이 Outlook 좌측에 아래와 같이 개인 계장(윗쪽 녹색영역)과 시스템 계정(붉은색 박스)이 모두 보이면 설정 완료.
 <kbd>
     <img src = ./images/outlook_06.png width=600>
 </kbd><p><br></p>
