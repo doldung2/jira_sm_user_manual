@@ -78,26 +78,42 @@
 
 ## 2. Notification 을 위한 메일 설정
 
+### 2.1 설정 순서
+
+Step 1. VDI내부의 제어판을 열고 "Mail (Mircosoft Outlook XXXX)" 항목을 클릭 (Outlook 종료 상태에서 해야 함.)
 <kbd>
     <img src = ./images/outlook_00.png width=600>
 </kbd><p><br></p>
 
-<kbd>
-    <img src = ./images/outlook_02.png width=600>
-</kbd><p><br></p>
-
-<kbd>
-    <img src = ./images/outlook_03.png width=600>
-</kbd><p><br></p>
-
-<kbd>
-    <img src = ./images/outlook_04.png width=600>
-</kbd><p><br></p>
-
+Step 2.프로필에 위치한 "프로필 보기" (하단의 붉은색 영역)을 클릭
 <kbd>
     <img src = ./images/outlook_05.png width=600>
 </kbd><p><br></p>
 
+Step 3.아래 화면에서 추가 버튼을 클릭(아래의 옵션은 "사용할 프로필 선택"을 선택한다.)
+<kbd>
+    <img src = ./images/outlook_04.png width=600>
+</kbd><p><br></p>
+
+Step 5.팝업된 "새프로필" 창에서 프로필 이름을 입력한다.(개인별로 관리하기 쉽도록 임의로 입력)
+
+Step 6.전환된 "계정추가" 창에서 부여받은 전자메일 주소는 "~~~~@skcc.com" (별도로 공유)를 입력 및 암호 후 "다음" 클릭
+    (개인 메일 및 본인 사내 메일 입력 금지!)
+
+Step 7. 이후 outlook 실행
+
+
+만약 아래와 같은 프로필 설정화면이 나올 경우 Outlook을 선택하시고, "확인"을 누르시고    
+<kbd>
+    <img src = ./images/outlook_02.png width=600>
+</kbd><p><br></p>
+
+아래처럼 자격증명 화면이 나올 경우에는 하단의 "다른 계정 사용"을 누르고, 부여받은 ID/PW를 입력한다.
+<kbd>
+    <img src = ./images/outlook_03.png width=600>
+</kbd><p><br></p>
+
+최종 설정 완료되면 아래와 같이 Outlook 좌측에 아래와 같이 개인 계장과 시스템 계정이 모두 보이면 설정 완료.
 <kbd>
     <img src = ./images/outlook_06.png width=600>
 </kbd><p><br></p>
