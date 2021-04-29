@@ -6,3 +6,28 @@
 포탈 접속 주소: https://accuinsightplus.atlassian.net/servicedesk/customer/portals
 ```
 ### 2. 정보제공 동의 및 이메일 입력
+
+<kbd>
+    <img src = ./images/cust_001.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_002.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_003.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_004.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_005.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_006.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_007.png>
+</kbd><p><br></p>
+<kbd>
+    <img src = ./images/cust_008.png>
+</kbd><p><br></p>
